@@ -5,10 +5,9 @@
 I have used <b>JDK1.8</b> to compile the source code
 <br>
 <p>Thanx for using <u>Scientific Calculator</u></p>
-<div>
-<div align="left"><img src="2.png" width="350px" ></div>
-<div align="right"><img src="3.png" width="350px" ></div>
-</div>
+
+<div align="center"><img src="2.png" width="350px" ><img src="3.png" width="350px" ></div>
+
 
 For more visit <a href="http://projects.adsingh.net/">projects.adsingh.net !</a>
 

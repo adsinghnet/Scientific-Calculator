@@ -1,4 +1,4 @@
-# Scientific-Calculator
+# Scientific-Calculator using JAVA swing
 <hr>
 <p align="right">Created and designed by AD Singh
 <hr>
